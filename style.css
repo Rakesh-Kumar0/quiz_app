@@ -73,3 +73,15 @@ body{
     cursor: pointer;
     display: none;
  }
+
+ .correct{
+    /* background-color:#9aeabc ; */
+    background-color: green;
+    color: white;
+ }
+
+ .incorrect{
+     /* background-color:#ff9393 ; */
+    background-color: red;
+    color: white;
+ }
